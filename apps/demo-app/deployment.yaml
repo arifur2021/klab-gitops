@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: demo-app
-          image: ghcr.io/arifur2021/klab-apps:1f9d0ca
+          image: ghcr.io/arifur2021/klab-apps:f3fa9f6
           ports:
             - containerPort: 80
           resources:
